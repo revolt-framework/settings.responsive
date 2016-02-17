@@ -1,0 +1,25 @@
+//
+// REVOLT!
+// SETTINGS.RESPONSIVE
+//
+
+
+
+// Media breakpoints
+//
+// Define the minimum and maximum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+// These media queries will be utilized by the revolt.tools.responsive module.
+
+$revo-media-breakpoints: (
+    // Tiny screen / phone
+    tiny:   0,
+    // Small screen / phone
+    small:  544px,
+    // Medium screen / tablet
+    medium: 768px,
+    // Large screen / desktop
+    large:  992px,
+    // Huge screen / wide desktop
+    huge:   1200px
+) !default;
