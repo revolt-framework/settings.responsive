@@ -13,13 +13,13 @@
 
 $revo-media-breakpoints: (
     // Tiny screen / phone
-    tiny:   0,
+    xs: 0,
     // Small screen / phone
-    small:  544px,
+    sm: 544px,
     // Medium screen / tablet
-    medium: 768px,
+    md: 768px,
     // Large screen / desktop
-    large:  992px,
+    lg: 992px,
     // Huge screen / wide desktop
-    huge:   1200px
+    xl: 1200px
 ) !default;
