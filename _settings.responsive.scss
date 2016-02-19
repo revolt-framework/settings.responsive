@@ -12,7 +12,7 @@
 // These media queries will be utilized by the revolt.tools.responsive module.
 
 $revo-media-breakpoints: (
-    // Tiny screen / phone
+    // Extra small screen / phone
     xs: 0,
     // Small screen / phone
     sm: 544px,
@@ -20,6 +20,6 @@ $revo-media-breakpoints: (
     md: 768px,
     // Large screen / desktop
     lg: 992px,
-    // Huge screen / wide desktop
+    // Extra large screen / wide desktop
     xl: 1200px
 ) !default;
